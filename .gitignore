@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+htmlcov/
+.pytest_cache/
+data/aeroplanes.json
